@@ -1,0 +1,10 @@
+C:\Data\Lập Trình Mạng Căn Bản\Test\Sudoku_Client_Server.vv\Load_Balance\bin\Debug\Load_Balance.exe.config
+C:\Data\Lập Trình Mạng Căn Bản\Test\Sudoku_Client_Server.vv\Load_Balance\bin\Debug\Load_Balance.exe
+C:\Data\Lập Trình Mạng Căn Bản\Test\Sudoku_Client_Server.vv\Load_Balance\bin\Debug\Load_Balance.pdb
+C:\Data\Lập Trình Mạng Căn Bản\Test\Sudoku_Client_Server.vv\Load_Balance\obj\Debug\Load_Balance.csprojAssemblyReference.cache
+C:\Data\Lập Trình Mạng Căn Bản\Test\Sudoku_Client_Server.vv\Load_Balance\obj\Debug\Load_Balance.FormLoad.resources
+C:\Data\Lập Trình Mạng Căn Bản\Test\Sudoku_Client_Server.vv\Load_Balance\obj\Debug\Load_Balance.Properties.Resources.resources
+C:\Data\Lập Trình Mạng Căn Bản\Test\Sudoku_Client_Server.vv\Load_Balance\obj\Debug\Load_Balance.csproj.GenerateResource.cache
+C:\Data\Lập Trình Mạng Căn Bản\Test\Sudoku_Client_Server.vv\Load_Balance\obj\Debug\Load_Balance.csproj.CoreCompileInputs.cache
+C:\Data\Lập Trình Mạng Căn Bản\Test\Sudoku_Client_Server.vv\Load_Balance\obj\Debug\Load_Balance.exe
+C:\Data\Lập Trình Mạng Căn Bản\Test\Sudoku_Client_Server.vv\Load_Balance\obj\Debug\Load_Balance.pdb

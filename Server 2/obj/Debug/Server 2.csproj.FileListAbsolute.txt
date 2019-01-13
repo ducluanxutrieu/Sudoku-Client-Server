@@ -1,0 +1,50 @@
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v3\Server 2\bin\Debug\Server 2.exe.config
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v3\Server 2\bin\Debug\Server 2.exe
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v3\Server 2\bin\Debug\Server 2.pdb
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v3\Server 2\obj\Debug\Server 2.csprojAssemblyReference.cache
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v3\Server 2\obj\Debug\Server_2.ServerForm.resources
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v3\Server 2\obj\Debug\Server_2.Properties.Resources.resources
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v3\Server 2\obj\Debug\Server 2.csproj.GenerateResource.cache
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v3\Server 2\obj\Debug\Server 2.csproj.CoreCompileInputs.cache
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v3\Server 2\obj\Debug\Server 2.exe
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v3\Server 2\obj\Debug\Server 2.pdb
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v4\Server 2\bin\Debug\Server 2.exe.config
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v4\Server 2\bin\Debug\Server 2.exe
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v4\Server 2\bin\Debug\Server 2.pdb
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v4\Server 2\obj\Debug\Server 2.csprojAssemblyReference.cache
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v4\Server 2\obj\Debug\Server_2.ServerForm.resources
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v4\Server 2\obj\Debug\Server_2.Properties.Resources.resources
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v4\Server 2\obj\Debug\Server 2.csproj.GenerateResource.cache
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v4\Server 2\obj\Debug\Server 2.csproj.CoreCompileInputs.cache
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v4\Server 2\obj\Debug\Server 2.exe
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v4\Server 2\obj\Debug\Server 2.pdb
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v5\Server 2\bin\Debug\Server 2.exe.config
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v5\Server 2\bin\Debug\Server 2.exe
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v5\Server 2\bin\Debug\Server 2.pdb
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v5\Server 2\obj\Debug\Server 2.csprojAssemblyReference.cache
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v5\Server 2\obj\Debug\Server_2.ServerForm.resources
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v5\Server 2\obj\Debug\Server_2.Properties.Resources.resources
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v5\Server 2\obj\Debug\Server 2.csproj.GenerateResource.cache
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v5\Server 2\obj\Debug\Server 2.csproj.CoreCompileInputs.cache
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v5\Server 2\obj\Debug\Server 2.exe
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v5\Server 2\obj\Debug\Server 2.pdb
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v6\Server 2\bin\Debug\Server 2.exe.config
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v6\Server 2\bin\Debug\Server 2.exe
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v6\Server 2\bin\Debug\Server 2.pdb
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v6\Server 2\obj\Debug\Server 2.csprojAssemblyReference.cache
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v6\Server 2\obj\Debug\Server_2.ServerForm.resources
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v6\Server 2\obj\Debug\Server_2.Properties.Resources.resources
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v6\Server 2\obj\Debug\Server 2.csproj.GenerateResource.cache
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v6\Server 2\obj\Debug\Server 2.csproj.CoreCompileInputs.cache
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v6\Server 2\obj\Debug\Server 2.exe
+C:\Users\HeadhunterZz\Desktop\Sudoku_Client_Server.v6\Server 2\obj\Debug\Server 2.pdb
+C:\Data\Lập Trình Mạng Căn Bản\Test\Sudoku_Client_Server.vv\Server 2\bin\Debug\Server 2.exe.config
+C:\Data\Lập Trình Mạng Căn Bản\Test\Sudoku_Client_Server.vv\Server 2\bin\Debug\Server 2.exe
+C:\Data\Lập Trình Mạng Căn Bản\Test\Sudoku_Client_Server.vv\Server 2\bin\Debug\Server 2.pdb
+C:\Data\Lập Trình Mạng Căn Bản\Test\Sudoku_Client_Server.vv\Server 2\obj\Debug\Server 2.csprojAssemblyReference.cache
+C:\Data\Lập Trình Mạng Căn Bản\Test\Sudoku_Client_Server.vv\Server 2\obj\Debug\Server_2.ServerForm.resources
+C:\Data\Lập Trình Mạng Căn Bản\Test\Sudoku_Client_Server.vv\Server 2\obj\Debug\Server_2.Properties.Resources.resources
+C:\Data\Lập Trình Mạng Căn Bản\Test\Sudoku_Client_Server.vv\Server 2\obj\Debug\Server 2.csproj.GenerateResource.cache
+C:\Data\Lập Trình Mạng Căn Bản\Test\Sudoku_Client_Server.vv\Server 2\obj\Debug\Server 2.csproj.CoreCompileInputs.cache
+C:\Data\Lập Trình Mạng Căn Bản\Test\Sudoku_Client_Server.vv\Server 2\obj\Debug\Server 2.exe
+C:\Data\Lập Trình Mạng Căn Bản\Test\Sudoku_Client_Server.vv\Server 2\obj\Debug\Server 2.pdb
